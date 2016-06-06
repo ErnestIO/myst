@@ -1,0 +1,33 @@
+Style/Encoding:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 25
+
+ClassLength:
+  Enabled: false
+
+# Disable metrics bellow once the library is cleaned up
+
+AbcSize:
+  Enabled: false
+
+ParameterLists:
+  Max: 10
+  CountKeywordArgs: true
+  Enabled: true
+
+Style/FileName:
+  Enabled: false
+
+Style/MethodName:
+  Enabled: false
+
+Style/VariableName:
+  Enabled: false

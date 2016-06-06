@@ -1,0 +1,13 @@
+machine:
+  ruby:
+    version: jruby-1.7.13
+
+dependencies:
+  override:
+    - make deps
+
+test:
+  override:
+    - make test
+    - make lint
+    - make cover
