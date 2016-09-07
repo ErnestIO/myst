@@ -11,8 +11,8 @@ A library for talking to vcloud via the java SDK.
 
 ## Build status
 
-* Master:  [![CircleCI Master](https://circleci.com/gh/ErnestIO/myst/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/myst/tree/master)
-* Develop: [![CircleCI Develop](https://circleci.com/gh/ErnestIO/myst/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/myst/tree/develop)
+* Master:  [![CircleCI Master](https://circleci.com/gh/ernestio/myst/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/myst/tree/master)
+* Develop: [![CircleCI Develop](https://circleci.com/gh/ernestio/myst/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/myst/tree/develop)
 
 ## Installation
 
